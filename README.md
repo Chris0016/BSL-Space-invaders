@@ -1,7 +1,4 @@
 # BSL-Space-invaders
-The final project of the How to Code: Simple Data course. Fun game to play
-
-
 
 The nature of BSL makes the language somewhat hard to read even when well designed, so here is some insight into how the code works:
 
